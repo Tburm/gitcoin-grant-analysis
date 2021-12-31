@@ -34,4 +34,16 @@ First, some notes on the data that is available.
 * The category with the most steady growth is "NFTs" which makes sense given current trends in the wider market
 * Round 12 has a general "Grants Round 12" category which could be throwing off these results
 
+## Future Improvement
 
+The dataset is limited in many ways. To do more complex or interesting analysis, I have a few suggestions:
+* Provide a dataset with weekly or daily donations
+  * There could be some trends where people wait until the final days or weeks to donate, which we can not determine from this data
+* Provide a "contributor" level dataset
+  * We have unique contributions in each grant, but can't aggregate that data since contributors could have donated to many grants
+  * We could get a better idea of "whale" contributors and how they compare to others
+* Fix some data quality issues
+  * Region is missing for 44% of the grants. There could be interested data here that we are unable to mine with this dataset.
+  * Code all currency values as floats instead of strings including `$` character for easier analysis
+  * Fix missing data in currency columns
+  * "Grants Round 12" category in Round 12 categories.
