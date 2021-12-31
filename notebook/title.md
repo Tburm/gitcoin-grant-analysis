@@ -4,5 +4,5 @@ An analysis of Gitcoin Grant data for rounds 1-12. This repository is an entry f
 
 This workbook contains the analysis from two main notebooks. You can view the source code for the data cleaning and all visuals in the following notebooks. All results and findings and recommendations are summarized in this document.
 
-![](./images/fig1.jpeg)
+![](./images/fig1.jpeg?raw=true)
 
