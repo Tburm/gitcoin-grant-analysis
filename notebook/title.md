@@ -5,8 +5,7 @@ An analysis of Gitcoin Grant data for rounds 1-12. This repository is an entry f
 This workbook contains the analysis from two main notebooks. You can view the source code for the data cleaning and all visuals in the following notebooks. All results and findings and recommendations are summarized in this document.
 
 ## The Data
-First, some notes on the data that is available.
-
+First, some notes on the data that is available. There are a few data quality issues that are mentioned in the "Future Improvements" section. Otherwise, this dataset is relatively limited given the lack of temporal data and individual contributions. More complex modeling would be possible given a more thorough dataset, however this data gives an excellent high-level view of the past 12 rounds of funding at Gitcoin.
 
 ## Findings
 
