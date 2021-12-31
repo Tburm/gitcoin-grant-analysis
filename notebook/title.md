@@ -1,6 +1,6 @@
 # Gitcoin Grants Analysis
 
-An analysis of Gitcoin Grant data for rounds 1-12. This repository is an entry for [this bounty](https://github.com/gitcoinco/skunkworks/issues/252#issue-1084213288) on Gitcoin.
+An analysis of Gitcoin Grant data for rounds 1-12. This repository is an entry for [this bounty](https://github.com/gitcoinco/skunkworks/issues/252#issue-1084213288) on Gitcoin. You can view a full version of this analysis at [grants.troyb.xyz](https://grants.troyb.xyz/title.html).
 
 This workbook contains the analysis from two main notebooks. You can view the source code for the data cleaning and all visuals in the following notebooks. All results and findings and recommendations are summarized in this document.
 
