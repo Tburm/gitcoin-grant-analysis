@@ -9,6 +9,8 @@ First, some notes on the data that is available. There are a few data quality is
 
 ## Findings
 
+Below you will find a high-level summary of findings. For more details, continue further into this book to view the analysis and data cleaning notebooks.
+
 ![](./images/contrib_per_round_match.jpeg?raw=true)
 ![](./images/contributions_per_round.jpeg?raw=true)
 
